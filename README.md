@@ -1,5 +1,5 @@
 # Godot_Platform
 
-A small 2D platformer in Godot 4: a knight, slimes, coins and moving platforms.
+Et lite 2D-plattformspill i Godot 4: en ridder, slimer, mynter og bevegelige plattformer.
 
-Follows this tutorial: https://www.youtube.com/watch?v=LOhfqjmasi0
+Følger denne tutorialen: https://www.youtube.com/watch?v=LOhfqjmasi0
